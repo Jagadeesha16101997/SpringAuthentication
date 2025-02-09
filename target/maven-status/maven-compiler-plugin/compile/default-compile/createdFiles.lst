@@ -1,0 +1,3 @@
+com\BasicAuth\SpringAuthentication\AuthConfiguration.class
+com\BasicAuth\SpringAuthentication\Basiccode.class
+com\BasicAuth\SpringAuthentication\SpringAuthenticationApplication.class
