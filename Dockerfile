@@ -5,7 +5,7 @@ FROM openjdk:17-jdk-slim
 WORKDIR /app
 
 # Copy the Spring Boot .jar file from the target folder to the container
-COPY target/your-app.jar app.jar
+COPY target/SpringAuthentication-0.0.1-SNAPSHOT.jar app.jar
 
 # Expose the port the app will run on
 EXPOSE 8080
